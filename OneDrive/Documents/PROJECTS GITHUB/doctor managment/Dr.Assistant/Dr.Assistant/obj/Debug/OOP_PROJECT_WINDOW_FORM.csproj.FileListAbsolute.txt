@@ -1,0 +1,356 @@
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojAssemblyReference.cache
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.cache
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.CoreCompileInputs.cache
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojResolveAssemblyReference.cache
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.Cache
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Signup.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_doctors.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Prescription.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\Subha\source\repos\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\Subha\source\repos\OOPS\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\Subha\source\repos\OOPS\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\repos\OOPS\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojAssemblyReference.cache
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.cache
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.CoreCompileInputs.cache
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\repos\OOPS\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+F:\OOPS\oop project\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.FolderPaths.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojAssemblyReference.cache
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Path_Page.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.cache
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.CoreCompileInputs.cache
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\OOP_PROJECT_WINDOW_FORM\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OOP_PROJECT\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojResolveAssemblyReference.cache
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+F:\OOPS\oop project\OOP_PROJECT\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.Cache
+F:\OOPS\oop project\OOP_PROJECT\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+F:\OOPS\oop project\OOP_PROJECT\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\Subha\source\OopProject\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\Subha\source\OopProject\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\OopProject\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojAssemblyReference.cache
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.cache
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.CoreCompileInputs.cache
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OopProject\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OopProject\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+F:\OOPS\oop project\OopProject\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojResolveAssemblyReference.cache
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+F:\OOPS\oop project\OopProject\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.Cache
+C:\Users\Subha\source\OOPFINAL\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\Subha\source\OOPFINAL\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\OOPFINAL\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojAssemblyReference.cache
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.cache
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.CoreCompileInputs.cache
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\Subha\source\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojResolveAssemblyReference.cache
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.Cache
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\NOMAN\Desktop\OOPFINAL\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\NOMAN\Desktop\OOPFINAL\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\NOMAN\Desktop\OOPFINAL\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\NOMAN\Desktop\OOPFINAL\bin\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.pdb
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Add_Tablets.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Admin.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Approve_drugs.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.AssessmentDone.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.BookAppointment.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangeEmail.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.ChangePassword.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Diagnosis.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.DoctorAppointment.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.doctorFunctions.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Doctors_Info.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.editInfo.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.EmailProgressing.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.btnResend.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.First_Page.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.viewInfo.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientAppointment.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.patientFunctions.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.PatientRecords.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.PrescriptionPage.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Properties.Resources.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.ReportGenerator.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Search_doctor.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.Login.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.SendingNotifications.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.SuggestDrugs.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.SignUp.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.ViewPrescription.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.View_Tablets.resources
+C:\Users\MY PC\OneDrive\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.csproj.GenerateResource.Cache
+C:\Users\MY PC\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\bin\Debug\OOP_PROJECT_WINDOW_FORM.exe.config
+C:\Users\MY PC\Desktop\OOP_Project-master\OOP_Project-master\Dr.Assistant\Dr.Assistant\obj\Debug\OOP_PROJECT_WINDOW_FORM.exe

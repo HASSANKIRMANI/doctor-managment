@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1ACD15F9-4553-4FB3-BBAB-DED2C22E6518}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OOP_PROJECT_WINDOW_FORM</RootNamespace>
+    <AssemblyName>OOP_PROJECT_WINDOW_FORM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Tablets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Tablets.designer.cs">
+      <DependentUpon>Add_Tablets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminClass.cs" />
+    <Compile Include="Appointment.cs" />
+    <Compile Include="Approve_drugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Approve_drugs.designer.cs">
+      <DependentUpon>Approve_drugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssessmentDone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssessmentDone.designer.cs">
+      <DependentUpon>AssessmentDone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookAppointment.designer.cs">
+      <DependentUpon>BookAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cardiologist.cs" />
+    <Compile Include="Change_EmailAddress_%28Edit info%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_EmailAddress_%28Edit info%29.designer.cs">
+      <DependentUpon>Change_EmailAddress_%28Edit info%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Password_%28Edit_info%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Password_%28Edit_info%29.designer.cs">
+      <DependentUpon>Change_Password_%28Edit_info%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomException.cs" />
+    <Compile Include="Diagnosis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnosis.designer.cs">
+      <DependentUpon>Diagnosis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diseasess.cs" />
+    <Compile Include="doctor.cs" />
+    <Compile Include="DoctorAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorAppointment.designer.cs">
+      <DependentUpon>DoctorAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doctorFunctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctorFunctions.designer.cs">
+      <DependentUpon>doctorFunctions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctors_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctors_Info.designer.cs">
+      <DependentUpon>Doctors_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Drugs.cs" />
+    <Compile Include="editInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editInfo.designer.cs">
+      <DependentUpon>editInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailProgressing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailProgressing.designer.cs">
+      <DependentUpon>EmailProgressing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailVerification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailVerification.designer.cs">
+      <DependentUpon>EmailVerification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="First_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="First_Page.designer.cs">
+      <DependentUpon>First_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IFixAppointment.cs" />
+    <Compile Include="generalphysician.cs" />
+    <Compile Include="infectologist.cs" />
+    <Compile Include="info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="info.designer.cs">
+      <DependentUpon>info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INotifyUsers.cs" />
+    <Compile Include="otolaryngologist.cs" />
+    <Compile Include="Patient.cs" />
+    <Compile Include="PatientAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientAppointment.designer.cs">
+      <DependentUpon>PatientAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patientFunctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patientFunctions.designer.cs">
+      <DependentUpon>patientFunctions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientRecords.designer.cs">
+      <DependentUpon>PatientRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prescription.cs" />
+    <Compile Include="PrescriptionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrescriptionPage.Designer.cs">
+      <DependentUpon>PrescriptionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pulmonologist.cs" />
+    <Compile Include="ReportGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportGenerator.designer.cs">
+      <DependentUpon>ReportGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_doctor.designer.cs">
+      <DependentUpon>Search_doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecondPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecondPage.designer.cs">
+      <DependentUpon>SecondPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendingNotifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendingNotifications.designer.cs">
+      <DependentUpon>SendingNotifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuggestDrugs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuggestDrugs.Designer.cs">
+      <DependentUpon>SuggestDrugs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IViewAppointment.cs" />
+    <Compile Include="ThirdPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThirdPage.designer.cs">
+      <DependentUpon>ThirdPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPrescription.designer.cs">
+      <DependentUpon>ViewPrescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Tablets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Tablets.designer.cs">
+      <DependentUpon>View_Tablets.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add_Tablets.resx">
+      <DependentUpon>Add_Tablets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Approve_drugs.resx">
+      <DependentUpon>Approve_drugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssessmentDone.resx">
+      <DependentUpon>AssessmentDone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookAppointment.resx">
+      <DependentUpon>BookAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_EmailAddress_%28Edit info%29.resx">
+      <DependentUpon>Change_EmailAddress_%28Edit info%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Password_%28Edit_info%29.resx">
+      <DependentUpon>Change_Password_%28Edit_info%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnosis.resx">
+      <DependentUpon>Diagnosis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorAppointment.resx">
+      <DependentUpon>DoctorAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctorFunctions.resx">
+      <DependentUpon>doctorFunctions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctors_Info.resx">
+      <DependentUpon>Doctors_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editInfo.resx">
+      <DependentUpon>editInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailProgressing.resx">
+      <DependentUpon>EmailProgressing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailVerification.resx">
+      <DependentUpon>EmailVerification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="First_Page.resx">
+      <DependentUpon>First_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="info.resx">
+      <DependentUpon>info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientAppointment.resx">
+      <DependentUpon>PatientAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patientFunctions.resx">
+      <DependentUpon>patientFunctions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientRecords.resx">
+      <DependentUpon>PatientRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrescriptionPage.resx">
+      <DependentUpon>PrescriptionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportGenerator.resx">
+      <DependentUpon>ReportGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_doctor.resx">
+      <DependentUpon>Search_doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SecondPage.resx">
+      <DependentUpon>SecondPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendingNotifications.resx">
+      <DependentUpon>SendingNotifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuggestDrugs.resx">
+      <DependentUpon>SuggestDrugs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThirdPage.resx">
+      <DependentUpon>ThirdPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPrescription.resx">
+      <DependentUpon>ViewPrescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Tablets.resx">
+      <DependentUpon>View_Tablets.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACKGROUND.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACKGROUND1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RIGHT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RIGHTT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\righ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MEDICINE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PICC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\med.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-23 at 9.48.27 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-23 at 9.51.34 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-23 at 9.53.17 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADMIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-23 at 11.08.13 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOCTOR1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PATIENT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INFO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-25 at 5.45.00 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-25 at 5.46.37 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-05-25 at 5.51.44 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Peripheral-Artery-Disease-Devices.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\960x0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\960x0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-portable-network-graphics-clip-art-physical-examin-diabetes-mellitus-5cb6d9eac1bb98.2396073215554872107935.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-portable-network-graphics-clip-art-physical-examin-diabetes-mellitus-5cb6d9eac1bb98.23960732155548721079351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\326-3266074_mobirise-health-check-up-clipart %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patientimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctors-and-nurse-standing-in-front-of-hospital-vector-16422183.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patientfun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patientAppo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-portable-network-graphics-clip-art-physical-examin-diabetes-mellitus-5cb6d9eac1bb98.2396073215554872107935.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient_cards-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prescription_icon_2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RX.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assessment-icon-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\see.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\122.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
